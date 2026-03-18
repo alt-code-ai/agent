@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "chrome-devtools": {
+      "command": "npx",
+      "args": ["-y", "chrome-devtools-mcp@latest"],
+      "lifecycle": "keep-alive"
+    }
+  },
+      "exa": {
+      "command": "npx",
+      "args": [       "-y",
+        "mcp-remote",
+        "https://mcp.exa.ai/mcp?apiKey=<YOUR_API_KEY>&tools=web_search_exa,web_search_advanced_exa,get_code_context_exa,crawling_exa,company_research_exa,people_search_exa,deep_researcher_start,deep_researcher_check,deep_search_exa"],
+      "lifecycle": "keep-alive"
+    }
+  }
+}
