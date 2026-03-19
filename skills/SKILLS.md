@@ -48,6 +48,10 @@ use the exa mcp to search for extra context.  Build additional skill context as 
 guidance, for example for publishing the skill should provide deep guidance and automations for publishing as HTML, markdown, PDF and other 
 common useful formats.
 
+### pdf
+
+> from anthropic.com
+
 ### programming-java-spring-framework
 
 >Create a new skill programming-java-spring-framework that provides expert guidance and automation programming in java with the Sping Framework
