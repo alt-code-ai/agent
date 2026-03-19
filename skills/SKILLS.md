@@ -14,10 +14,14 @@
 > Create a new skill, fiction-writing-prose-advanced that provides expert guidance on
 > writing fiction prose, with a specific focus on short story and novel form.  Synthesise
 > techniques from well regarded sources such Janet Burroway (Writing Fiction), Stephen King,
-> Ursula Le Guin, Gertrude Stein and others.  Use the skill-creator skill, and use
-> the exa mcp to search for extra context.  Build additional skill context as required
-> for stronger guidance.  Evaluate the skill and install ready for use
+> Ursula Le Guin, Gertrude Stein and others.  
+> Evaluate the skill and install ready for use
 > (adjacent with existing fiction-writing-prose skill and ready for performance comparison)
+
+Create a new skill fiction-writing-comedy, that provides expert guidance on writing comedy.  Synthesise well regarded source material using both theoretical sources and practioners   
+(comics). Use the skill-creator skill, and use the exa mcp to search for extra context. Build additional skill context as required for stronger
+guidance, and deep dives for comedy in prose (shorty story and novel), film anf television, and stand up commedy.
+Evaluate the skill and install ready for use
 
 ### fiction-writing-story-development-advanced
 
