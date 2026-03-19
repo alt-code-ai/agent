@@ -47,3 +47,48 @@ Synthesise techniques from well regarded sources on the topic.  Use the skill-cr
 use the exa mcp to search for extra context.  Build additional skill context as required for stronger
 guidance, for example for publishing the skill should provide deep guidance and automations for publishing as HTML, markdown, PDF and other 
 common useful formats.
+
+### programming-java-spring-framework
+
+>Create a new skill programming-java-spring-framework that provides expert guidance and automation programming in java with the Sping Framework
+and Spring Boot. Use the skill-creator skill, and
+use the exa mcp to search for extra context.  Build additional skill context as required for stronger
+guidance, especially on the core component library for Sping and Spring Boot, web (mvc) and database comopnents.  Include a comprehensive coverage of all other
+components provided by Sping and Spring Boot.  Components provided by other projects (for example Camel spring boot starters) are out of scope.
+
+### programming-java-apache-camel
+
+>Create a new skill programming-java-apache-camel that provides expert guidance and automation programming in java with the Apache Camel framework
+with a focus on integrating with Spring Boot. Use the skill-creator skill, and
+use the exa mcp to search for extra context.  Build additional skill context as required for stronger
+guidance, especially on the core components for distributed systems: JMS, HTTP, master, zookeeper integration.  Include a comprehensive coverage of all other
+components provided by Camel.  Related and downstream projects such as camel-k, karavan, or jboss fuse; only the core camel monorepo is in scope.
+
+### programming-java-oss-soa
+
+>Create a new skill programming-java-oss-soa-esb that provides expert guidance on implementing Service Oriented and Enterprise Service Bus (ESB) based
+architectures for Enetrprise Application Integration and canoncial microservice layers using open source software in the Java ecosystem, such as Spring Boot
+Apache Camel, Apache Artemis, Apache Zookeeper, Hazelcast (and other shared memory caches in java).  The skill should refer to adjacent skills for programming with
+java, and focus on how common patterns and best practices can be applied to implement SOA architectures.  Synthesis patterns from Gregor Hohpe & Bobby Woolf — Enterprise Integration Patterns,
+SOA Principles of service design, by Thomas Erl. Use the skill-creator skill, and
+use the exa mcp to search for extra context.  Build additional skill context as required for stronger
+guidance.  
+
+### professional-development-fyi
+
+>Create a new skill, professional-development-fyi that provides expert guidance on professional development and career advice, with a specific focus
+on using the competencies described in FYI For Your Improvement A Guide for Development and Coaching  By Lombardo and Eischinger to work with the user to identify and address
+their goals and blockers, using questions and answers to build a portrait with specific insight on their current competency levels (unskilled, skilled, over-skilled) 
+and a roadmap of actionable steps to achieve their goals and overcome blockers.  Use the skill-creator skill, and
+use the exa mcp to search for extra context.  Build additional skill context as required for stronger
+guidance on each competency as required.  There is a pdf in the working folder (lominger-cards-descriptors.pdf) that includes the text, if you cannot find it.  Advice on resume 
+preparation, revision and writing is out-of-scope for this skill.
+
+### resume-writing
+
+>Create a new skill, resume-writing that provides expert guidance on writing a resume, using professional-development-fyi skill to help identify and
+articulate the canditaes suitability for a provided role and marketable strengths.  The skill should be be create or revise a resume (curriculum vitae), cover letter and addendum matching selection criteria 
+to address the requirements for a  provided job / role description directly, or a category of role more generally (manager, chef etc).  It should also include 
+capability to sharpen and improve the resume document styling, layout and help produce a professional document in common formats. se the skill-creator skill, and
+use the exa mcp to search for extra context.  Build additional skill context as required for stronger
+guidance on each competency as required. 
